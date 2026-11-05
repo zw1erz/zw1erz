@@ -3,7 +3,7 @@
 <!-- INTRO -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=Technology+%26+PC+Enthusiast;Oldschool+Discord+Bot+Developer;Digital+Art+%26+Thumbnail+Creator;System+%26+UI+Customizer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=Technology+%26+PC+Enthusiast;Discord+Bot+Developer;Digital+Art+%26+Thumbnail+Creator;System+%26+UI+Customizer)
 
 </div>
 
