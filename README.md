@@ -3,35 +3,35 @@
 <!-- INTRO -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+ZW1ERZ;Arch+Linux+User+%26+PC+Tinkerer;Discord+Bot+Creator;Creative+Graphics+%26+3D+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+ZW1ERZ;Technology+%26+PC+Enthusiast;Discord+Bot+Developer;Digital+Creator+%26+Self-Taught)
 
 </div>
 
-## 🐧 About Me
-Passionate about computers, hardware, and tweaking systems for fun. Daily driving **Arch Linux**, hosting servers, building custom Discord bots, and exploring creative tools.
+## 🌐 About Me
+Just a guy who loves computers, hardware, and figuring out how things work. I enjoy configuring systems, building Discord bots, host-managed projects, and learning creative tools along the way.
 
 <br/>
 
-## 🧠 System & Hardware
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1&labelColor=0D1117)
+## 🛠 Systems & Hardware
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=FCC624&labelColor=0D1117)
 ![PC Hardware](https://img.shields.io/badge/-Hardware_&_Building-0D1117?style=for-the-badge&logo=cpu&logoColor=b204ee&labelColor=0D1117)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1&labelColor=0D1117)
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117)
 
 <br/>
 
-## 🤖 Discord & Servers
+## 🤖 Development & Servers
 ![Discord Bots](https://img.shields.io/badge/-Discord_Bots-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
-![Minecraft Servers](https://img.shields.io/badge/-Minecraft_Servers-0D1117?style=for-the-badge&logo=minecraft&logoColor=388E3C&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
+![Servers](https://img.shields.io/badge/-Server_Management-0D1117?style=for-the-badge&logo=server&logoColor=b204ee&labelColor=0D1117)
 
 <br/>
 
-## 🎨 Creative & Tools
+## 🎨 Creative Workspace
 ![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=blender&logoColor=E87D0D&labelColor=0D1117)
-![Affinity](https://img.shields.io/badge/-Affinity_Photo/Designer-0D1117?style=for-the-badge&logo=affinity&logoColor=22D3EE&labelColor=0D1117)
+![Affinity](https://img.shields.io/badge/-Affinity-0D1117?style=for-the-badge&logo=affinity&logoColor=22D3EE&labelColor=0D1117)
 ![OBS Studio](https://img.shields.io/badge/-OBS_Studio-0D1117?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=0D1117)
-![WinSCP](https://img.shields.io/badge/-WinSCP_/_SSH-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0D1117)
 
 <br/>
 
