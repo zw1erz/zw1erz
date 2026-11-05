@@ -8,7 +8,7 @@
 </div>
 
 ## 🌐 About Me
-Tech enthusiast who loves custom builds, hardware, and oldschool vibes. I enjoy building custom Discord bots with unique mechanics (like text-based games), fine-tuning my **Arch Linux** desktop, casually editing videos, and spending time with automotive culture and simulation games.
+Tech enthusiast who loves custom builds, hardware, and oldschool vibes. I enjoy building custom Discord bots with unique mechanics (like text-based games) casually editing videos, and spending time with automotive culture and simulation games.
 
 <br/>
 
