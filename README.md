@@ -8,7 +8,7 @@
 </div>
 
 ## 🌐 About Me
-Tech enthusiast who loves custom builds, hardware & software tweaking, and oldschool vibes. I enjoy building custom Discord bots with unique mechanics (like text-based games), fine-tuning my desktop, creating digital art & YouTube thumbnails, casually editing videos, spending time with automotive culture and simulation games.
+Tech enthusiast who loves custom builds, hardware & software tweaking, and oldschool vibes. I enjoy building Discord bots with unique mechanics (like text-based games), fine-tuning my desktop, creating digital art & YouTube thumbnails, casually editing videos, spending time with automotive culture and simulation games.
 
 <br/>
 
