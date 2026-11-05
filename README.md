@@ -8,7 +8,7 @@
 </div>
 
 ## 🐧 About Me
-Jestem fanem komputerów, sprzętu i dłubania w systemach dla własnej frajdy. Na co dzień śmigam na **Arch Linux**, stawiam serwery, tworzę rozbudowane boty na Discorda i ogarniam rzeczy kreatywne.
+Passionate about computers, hardware, and tweaking systems for fun. Daily driving **Arch Linux**, hosting servers, building custom Discord bots, and exploring creative tools.
 
 <br/>
 
