@@ -3,12 +3,12 @@
 <!-- INTRO -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=Technology+%26+PC+Enthusiast;Discord+Bot+Developer;Digital+Art+%26+Thumbnail+Creator;System+%26+UI+Customizer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5204ee&font=Segoe+UI+Black&size=35&center=true&vCenter=true&width=1000&lines=Technology+%26+PC+Enthusiast;Oldschool+Discord+Bot+Developer;Digital+Art+%26+Thumbnail+Creator;System+%26+UI+Customizer)
 
 </div>
 
 ## 🌐 About Me
-Tech enthusiast who loves custom builds, hardware, and oldschool vibes. I enjoy building custom Discord bots with unique mechanics (like text-based games) casually editing videos, and spending time with automotive culture and simulation games.
+Tech enthusiast who loves custom builds, hardware, and oldschool vibes. I enjoy building custom Discord bots with unique mechanics (like text-based games), fine-tuning my **Arch Linux** desktop, creating digital art & YouTube thumbnails, casually editing videos, and spending time with automotive culture and simulation games.
 
 <br/>
 
@@ -21,15 +21,17 @@ Tech enthusiast who loves custom builds, hardware, and oldschool vibes. I enjoy 
 <br/>
 
 ## 🤖 Bot Dev & Hosting
-![Discord Bots](https://img.shields.io/badge/-Oldschool_Discord_Bots-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0D1117)
+![Discord Bots](https://img.shields.io/badge/-Discord_Bots-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
 ![WinSCP / SSH](https://img.shields.io/badge/-WinSCP_/_SSH-0D1117?style=for-the-badge&logo=ssh&logoColor=00ADD8&labelColor=0D1117)
 
 <br/>
 
 ## 🎨 Creative & Hobbies
-![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-0D1117?style=for-the-badge&logo=davinci-resolve&logoColor=E22726&labelColor=0D1117)
+![Digital Art](https://img.shields.io/badge/-Digital_Art_&_Thumbnails-0D1117?style=for-the-badge&logo=artstation&logoColor=b204ee&labelColor=0D1117)
 ![Affinity](https://img.shields.io/badge/-Affinity-0D1117?style=for-the-badge&logo=affinity&logoColor=22D3EE&labelColor=0D1117)
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-0D1117?style=for-the-badge&logo=davinci-resolve&logoColor=E22726&labelColor=0D1117)
 ![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=blender&logoColor=E87D0D&labelColor=0D1117)
 ![Automotive Culture](https://img.shields.io/badge/-Automotive_&_Sims-0D1117?style=for-the-badge&logo=steering-wheel&logoColor=a70fe4&labelColor=0D1117)
 
